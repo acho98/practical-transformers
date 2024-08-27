@@ -9,7 +9,7 @@ Setting up the environment
 Basic usage of Transformer models
 Fine-tuning pre-trained models
 Real-world applications and case studies
-Exercises and practice projects
+Exercises and practice projects.
 
 ## Target Audience:
 
