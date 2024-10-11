@@ -7,10 +7,10 @@ This repository contains practical, hands-on tutorials for learning Transformers
 Introduction to Hugging Face and Transformers
 Setting up the environment
 Basic usage of Transformer models
-Exercises and practice projects
+Exercises and practice projects.
 
 ## Target Audience:
 
 Beginners to intermediate learners in machine learning and natural language processing
 Those interested in practical implementation of Transformer models
-Students and professionals looking to enhance their skills with Hugging Face and PyTorch
+Students and professionals looking to enhance their skills with Hugging Face and PyTorch.
