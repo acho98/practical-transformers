@@ -6,7 +6,7 @@ This repository contains practical, hands-on tutorials for learning Transformers
 
 Introduction to Hugging Face and Transformers
 Setting up the environment
-Basic usage of Transformer models
+Basic usage of Transformer models.
 Exercises and practice projects.
 
 ## Target Audience:
